@@ -1,0 +1,4 @@
+﻿  applicationGlut.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(127): warning C4005: CALLBACK: изменение макроопределения
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\glut.h(33): note: см. предыдущее определение "CALLBACK"
+  applicationGlut.vcxproj -> c:\users\bohdan\documents\visual studio 2015\Projects\applicationGlut\x64\Release\applicationGlut.lib
